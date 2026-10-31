@@ -1,0 +1,18 @@
+.build/
+.swiftpm/
+dist/
+.DS_Store
+.backups/
+*.xcuserstate
+xcuserdata/
+
+# Local hardware diagnostics and third-party application inspection records.
+evidence/
+docs/reverse-engineering.md
+
+# Local configuration and credentials.
+.env
+.env.*
+*.p12
+*.p8
+*.pem
